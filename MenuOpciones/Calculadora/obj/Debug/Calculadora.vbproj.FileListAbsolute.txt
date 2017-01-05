@@ -1,0 +1,4 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache

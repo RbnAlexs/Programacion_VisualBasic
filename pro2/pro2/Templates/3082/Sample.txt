@@ -1,0 +1,17 @@
+//////////////////////////////////////////////////////////////////
+// Sample.txt - este archivo muestra cómo se utilizan las 
+//              directivas del asistente
+//////////////////////////////////////////////////////////////////
+
+[!if SAMPLE_CHECKBOX]
+Opción 'Casilla de verificación de ejemplo' activada
+[!endif]
+
+[!if SAMPLE_RADIO_OPTION1]
+Opción 'Botón de opción de ejemplo 1' activada
+[!else]
+Opción 'Botón de opción de ejemplo 2' activada
+[!endif]
+
+HA seleccionado la siguiente opción del cuadro de lista de ejemplo:
+[!output SAMPLE_LISTBOX]

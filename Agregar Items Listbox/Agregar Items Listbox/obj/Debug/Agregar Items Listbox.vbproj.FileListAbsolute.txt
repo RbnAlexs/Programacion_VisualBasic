@@ -1,0 +1,11 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\bin\Debug\Agregar Items Listbox.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\bin\Debug\Agregar Items Listbox.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\bin\Debug\Agregar Items Listbox.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\Agregar_Items_Listbox.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\Agregar_Items_Listbox.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\Agregar Items Listbox.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\Agregar Items Listbox.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\Agregar Items Listbox.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Agregar Items Listbox\Agregar Items Listbox\obj\Debug\GenerateResource.write.1.tlog

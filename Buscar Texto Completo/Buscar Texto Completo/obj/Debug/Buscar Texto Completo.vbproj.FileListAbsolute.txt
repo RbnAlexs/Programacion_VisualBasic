@@ -1,0 +1,10 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\bin\Debug\Buscar Texto Completo.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\bin\Debug\Buscar Texto Completo.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\bin\Debug\Buscar Texto Completo.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar_Texto_Completo.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar_Texto_Completo.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar Texto Completo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar Texto Completo.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar Texto Completo.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Buscar Texto Completo\Buscar Texto Completo\obj\Debug\Buscar Texto Completo.pdb

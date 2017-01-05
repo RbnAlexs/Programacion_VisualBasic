@@ -1,0 +1,10 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\bin\Debug\Formulario.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Formulario\Formulario\obj\Debug\Formulario.pdb

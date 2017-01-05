@@ -1,0 +1,11 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\bin\Debug\MenuOpciones.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\bin\Debug\MenuOpciones.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\bin\Debug\MenuOpciones.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.Numeros.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MenuOpciones\MenuOpciones\obj\Debug\MenuOpciones.Calculadora.resources

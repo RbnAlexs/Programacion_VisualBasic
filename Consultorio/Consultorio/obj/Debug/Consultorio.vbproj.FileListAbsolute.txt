@@ -1,0 +1,12 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.Registro.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Consultorio\Consultorio\bin\Debug\consultorio.accdb

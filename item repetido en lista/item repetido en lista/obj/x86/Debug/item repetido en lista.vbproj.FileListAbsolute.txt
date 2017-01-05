@@ -1,0 +1,11 @@
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\bin\Debug\item repetido en lista.exe
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\bin\Debug\item repetido en lista.pdb
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\bin\Debug\item repetido en lista.xml
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\item_repetido_en_lista.Form1.resources
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\item_repetido_en_lista.Resources.resources
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\item repetido en lista.exe
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\item repetido en lista.xml
+d:\visual studio 2010\Projects\item repetido en lista\item repetido en lista\obj\x86\Debug\item repetido en lista.pdb

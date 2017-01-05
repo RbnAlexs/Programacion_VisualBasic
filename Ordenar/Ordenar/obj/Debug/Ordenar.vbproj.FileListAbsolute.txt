@@ -1,0 +1,4 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Ordenar\Ordenar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Ordenar\Ordenar\obj\Debug\Ordenar.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Ordenar\Ordenar\obj\Debug\Ordenar.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Ordenar\Ordenar\obj\Debug\Ordenar.vbproj.GenerateResource.Cache

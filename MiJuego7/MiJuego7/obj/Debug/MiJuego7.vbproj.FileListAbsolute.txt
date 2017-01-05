@@ -1,0 +1,10 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\bin\Debug\MiJuego7.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\bin\Debug\MiJuego7.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\bin\Debug\MiJuego7.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\MiJuego7\MiJuego7\obj\Debug\MiJuego7.pdb

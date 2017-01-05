@@ -1,0 +1,10 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\bin\Debug\Diccionario2.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\bin\Debug\Diccionario2.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\bin\Debug\Diccionario2.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Diccionario2\Diccionario2\obj\Debug\Diccionario2.pdb

@@ -1,0 +1,11 @@
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\bin\Debug\Buscar texto.exe
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\bin\Debug\Buscar texto.pdb
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\bin\Debug\Buscar texto.xml
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\Buscar_texto.Form1.resources
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\Buscar_texto.Resources.resources
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\Buscar texto.exe
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\Buscar texto.xml
+d:\visual studio 2010\Projects\Buscar texto\Buscar texto\obj\x86\Debug\Buscar texto.pdb

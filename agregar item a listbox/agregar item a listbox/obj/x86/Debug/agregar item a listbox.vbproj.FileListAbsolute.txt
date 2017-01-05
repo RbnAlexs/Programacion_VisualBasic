@@ -1,0 +1,11 @@
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\bin\Debug\agregar item a listbox.exe
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\bin\Debug\agregar item a listbox.pdb
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\bin\Debug\agregar item a listbox.xml
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\agregar_item_a_listbox.Form1.resources
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\agregar_item_a_listbox.Resources.resources
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\agregar item a listbox.exe
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\agregar item a listbox.xml
+d:\visual studio 2010\Projects\agregar item a listbox\agregar item a listbox\obj\x86\Debug\agregar item a listbox.pdb

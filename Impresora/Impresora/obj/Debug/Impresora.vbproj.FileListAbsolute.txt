@@ -1,0 +1,10 @@
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\bin\Debug\Impresora.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\bin\Debug\Impresora.pdb
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\bin\Debug\Impresora.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.Form1.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.Resources.resources
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.exe
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.xml
+C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\Impresora\Impresora\obj\Debug\Impresora.pdb

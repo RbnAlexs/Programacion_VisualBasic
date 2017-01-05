@@ -1,0 +1,6 @@
+VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine.9.0
+
+Param="WIZARD_NAME = pro2"
+Param="ABSOLUTE_PATH = C:\Documents and Settings\Byen\Mis documentos\Visual Studio 2008\Projects\pro2\pro2"
+Param="FALLBACK_LCID = 3082"
